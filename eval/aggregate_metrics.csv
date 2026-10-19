@@ -1,0 +1,7 @@
+Metric,Value
+Vocabulary / tokens,697 / 9386
+NPMI coherence,0.232
+Perplexity,581.6
+Purity,0.69
+NMI / ARI,0.596 / 0.491
+Confident documents,44 with p > 0.9; 3 with p < 0.5

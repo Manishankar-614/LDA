@@ -1,0 +1,6 @@
+Topic,Top 5 words (probability),Docs,NPMI@5,Interpretation
+Topic 1,"firm (0.021), profit (0.017), company (0.016), rate (0.016), rise (0.015)",20,0.28,Business & finance
+Topic 2,"mobile (0.031), network (0.020), digital (0.020), phone (0.020), user (0.019)",18,0.476,UK politics & elections
+Topic 3,"government (0.024), law (0.018), right (0.015), threat (0.014), age (0.010)",10,0.246,Consumer technology / gadgets
+Topic 4,"film (0.012), game (0.012), ireland (0.010), home (0.009), player (0.009)",30,0.016,"Law, courts & security"
+Topic 5,"labour (0.025), election (0.023), award (0.015), blair (0.013), party (0.011)",22,0.145,Sport & entertainment (merged)
